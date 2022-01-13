@@ -1,9 +1,14 @@
-# 1. start ipfs cluster
+# 1. ipfs & ipfs cluster
+```url
+https://app.yinxiang.com/fx/e74e70c2-ce93-4671-b914-6daa719c72fa
+```
+
+# 2. start ipfs cluster
 ```shell
 docker-compose up
 ```
 
-# 2. install ipfs-cluster-ctl
+# 3. install ipfs-cluster-ctl
 
 - macos:
 ```shell
@@ -15,7 +20,7 @@ tar xzvf ipfs-cluster-ctl_v0.14.4_darwin-amd64.tar.gz
 https://dist.ipfs.io/#ipfs-cluster-ctl
 ```
 
-# 3. interact with ipfs cluster
+# 4. interact with ipfs cluster
 
 - query peers
 ```shell
