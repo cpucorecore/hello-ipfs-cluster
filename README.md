@@ -10,8 +10,12 @@ docker-compose up
 wget https://dist.ipfs.io/ipfs-cluster-ctl/v0.14.4/ipfs-cluster-ctl_v0.14.4_darwin-amd64.tar.gz
 tar xzvf ipfs-cluster-ctl_v0.14.4_darwin-amd64.tar.gz
 ```
+- other OS:
+```url
+https://dist.ipfs.io/#ipfs-cluster-ctl
+```
 
-# 3. interactive with ipfs cluster
+# 3. interact with ipfs cluster
 
 - query peers
 ```shell
