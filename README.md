@@ -1,7 +1,5 @@
 # 1. ipfs & ipfs cluster
-```url
-https://app.yinxiang.com/fx/e74e70c2-ce93-4671-b914-6daa719c72fa
-```
+[ipfs & ipfs cluster](https://app.yinxiang.com/fx/e74e70c2-ce93-4671-b914-6daa719c72fa)
 
 # 2. start ipfs cluster
 ```shell
@@ -16,9 +14,7 @@ wget https://dist.ipfs.io/ipfs-cluster-ctl/v0.14.4/ipfs-cluster-ctl_v0.14.4_darw
 tar xzvf ipfs-cluster-ctl_v0.14.4_darwin-amd64.tar.gz
 ```
 - other OS:
-```url
-https://dist.ipfs.io/#ipfs-cluster-ctl
-```
+[ipfs-cluster-ctl download](https://dist.ipfs.io/#ipfs-cluster-ctl)
 
 # 4. interact with ipfs cluster
 
